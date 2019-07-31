@@ -11,4 +11,4 @@ External resorce:
 - Greensock for tweening
 - Stimuli for loaders
 
-<img src="screenshot1.png" width="430"><img src="screenshot2.png" width="800">
+<img src="screenshot1.png" width="800">
