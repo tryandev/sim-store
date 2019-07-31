@@ -27,3 +27,6 @@ src/assets
 
 # Textmate
 *.orig
+
+# Others
+*.bak

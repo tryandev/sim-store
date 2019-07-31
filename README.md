@@ -1,5 +1,5 @@
 # sim-store
-Flash based casual game on facebook 
+Flash based casual game made for facebook
 
 Created by me:
 - Isometric game engine
